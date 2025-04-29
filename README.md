@@ -9,3 +9,4 @@ This is a real-time chat application built with the MERN stack. The application 
 - Private messaging  
 - User presence (online/offline status)  
 - Responsive design for mobile and desktop 
+# Chat_Pat
