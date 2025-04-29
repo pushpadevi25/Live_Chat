@@ -7,7 +7,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
     cors:{
-        origin:['https://live-chat-front-kpk3.onrender.com/'],
+        origin:['https://live-chat-front-kpk3.onrender.com'],
         methods:['GET', 'POST'],
     },
 });
